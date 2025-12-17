@@ -300,7 +300,7 @@ export default function App() {
           </p>
           
           <div className="flex justify-center gap-6">
-            <a href={EXPERT_DATA.instagramUrl} target="_blank" rel="noreferrer" className="text-zinc-400 hover:text-brand-accent transition-colors">
+            <a href={EXPERT_DATA.instagramUrl} target="_blank" rel="noreferrer" className="text-[#E1306C] hover:text-[#C13584] transition-colors">
               <Instagram size={24} />
             </a>
             <a href={EXPERT_DATA.whatsappUrl} target="_blank" rel="noreferrer" className="text-zinc-400 hover:text-[#25D366] transition-colors">
